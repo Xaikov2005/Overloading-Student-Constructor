@@ -1,3 +1,3 @@
-- demonstration of encapsulation in Java
+- demonstration of overloading in Java
 - an example of using overloading constructors
 - demonstrates how to use constructor with no parameters, constructor with two (2) parameters, and constructors with one (1) parameter. and using them in the main method.
